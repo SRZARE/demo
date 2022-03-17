@@ -1,23 +1,23 @@
 *{margin: 0;padding: 0;}
 .main-box{
     width: 100%;
-   /* border: 1px solid black;*/
+    border: 1px solid black;
     background-color: grey;
 }
 .box-1{
     width: 100%;
-   /* border: 1px solid black;*/
+    border: 1px solid black;
     background-color: white;
 }
 .box-3{
     width: 100%;
     background-color: white;
-   /* border: 1px solid black;*/
+    border: 1px solid black;
 }
 .navbar-so{
     width: 100%;
     height: 35px;
-   /* border: 1px solid black; */
+    border: 1px solid black;
     background-color: rgb(113, 113, 230);
 }
 .navbar-so p{
@@ -69,7 +69,7 @@
     width: 100%;
     height: 600px;
     border: 1px solid black;
-    background-color: rgb(164, 164, 202);
+    background-color: rgb(240, 240, 248);
 }
 .banner-box-inner{
     width: 400px;
